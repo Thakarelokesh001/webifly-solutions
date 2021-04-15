@@ -1,0 +1,8 @@
+.cardss{
+    display: block;
+    border: black 1px solid;
+    background-color: rgba(63, 61, 60, 0.009);
+    background-image: url(https://image.freepik.com/free-photo/conceptual-seo-analysis-business-with-wooden-blocks-with-words-it-magnifying-glass-side-view_176474-10541.jpg);
+    color: white;
+    box-shadow: black;
+  }

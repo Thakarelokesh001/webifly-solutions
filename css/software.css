@@ -1,0 +1,8 @@
+.cardss{
+  display: block;
+  border: black 1px solid;
+  background-color: rgba(63, 61, 60, 0.009);
+  background-image: url(../img/software.jpg);
+  color: white;
+  box-shadow: black;
+}
